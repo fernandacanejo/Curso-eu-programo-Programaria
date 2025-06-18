@@ -43,6 +43,12 @@ Durante esse projeto, pude praticar:
 - Estilização com CSS (tipografia, cores, espaçamento)
 - Manipulação de formulários com JavaScript
 
+  ## 🔗 Acesse o Projeto
+
+- 🔎 Repositório no GitHub: [Curso-eu-programo-Programaria](https://github.com/fernandacanejo/Curso-eu-programo-Programaria)
+- 🌐 Projeto publicado em: [GitHub Pages](https://fernandacanejo.github.io/Curso-eu-programo-Programaria/)
+
 ---
+
 
 Feito por [Fernanda Canêjo](https://github.com/fernandacanejo)
